@@ -2,8 +2,7 @@
 
 I'm a **Data Science Engineering student at Universidad del Valle de Guatemala (UVG)**.
 
-I'm mainly interested in data engineering, analytics, and applied data science. Most of my projects involve working with APIs, databases, data pipelines, or building small prototypes around real problems.
-
+I'm mainly interested in data engineering, analytics, and applied data science. I like working with APIs, databases, and data pipelines, and using them to build practical projects.
 ## Projects
 
 ### [Crypto Market Intelligence Pipeline](https://github.com/A625A/Crypto-Market-Intelligence-Pipeline)
