@@ -1,53 +1,62 @@
-# I'm Andrew Arrivillaga
+# Hi, I'm Andrew Arrivillaga
 
-I'm a Data Science Engineering student at Universidad del Valle de Guatemala (UVG).
+I'm a **Data Science Engineering student at Universidad del Valle de Guatemala (UVG)**.
 
 I'm mainly interested in data engineering, analytics, and applied data science. Most of my projects involve working with APIs, databases, data pipelines, or building small prototypes around real problems.
 
-Projects
-Crypto Market Intelligence Pipeline
+## Projects
+
+### [Crypto Market Intelligence Pipeline](https://github.com/A625A/Crypto-Market-Intelligence-Pipeline)
 
 Python pipeline that pulls crypto market, macroeconomic, and sentiment data from multiple APIs, cleans it, and generates features for future modeling and backtesting.
 
-Python Pandas APIs Docker Pytest
+`Python` `Pandas` `APIs` `Docker` `Pytest`
 
-Work in progress
+**Work in progress**
 
-Fuel Station Operations & Analytics
+---
+
+### [Fuel Station Operations & Analytics](https://github.com/A625A/GasolineraGestion)
 
 Prototype for fuel-station inventory monitoring and restocking analysis. It tracks consumption, estimates when inventory could run out, and generates restocking recommendations.
 
-Python FastAPI PostgreSQL Redis Docker
+`Python` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
-TempCheck
+---
+
+### [TempCheck](https://github.com/A625A/TemptCheck)
 
 MVP demo built for Muriel to test a digital workflow for managing temperature-related risk during product transportation.
 
-Python FastAPI Jinja2 JavaScript Docker
+`Python` `FastAPI` `Jinja2` `JavaScript` `Docker`
 
-NBA Investment Database
+---
+
+### [NBA Investment Database](https://github.com/Guallitoprogra/Proyecto-BD-NBA-)
 
 University team project using PostgreSQL, Python, NBA data, salaries, and performance metrics to compare teams from an investment perspective.
 
-PostgreSQL SQL Python NBA API
+`PostgreSQL` `SQL` `Python` `NBA API`
 
-Güteli Bakery
+---
+
+### [Güteli Bakery](https://github.com/A625A/guteli-bakery)
 
 Full-stack bakery ordering platform built with Next.js, PostgreSQL, and Docker.
 
-Next.js TypeScript PostgreSQL Docker
+`Next.js` `TypeScript` `PostgreSQL` `Docker`
 
-Tech
+## Tech
 
-Languages: Python, SQL, Java
+**Languages:** Python, SQL, Java
 
-Data: Pandas, NumPy, PostgreSQL
+**Data:** Pandas, NumPy, PostgreSQL
 
-Tools: Git, Docker, Jupyter, VS Code, IntelliJ, LaTeX
+**Tools:** Git, Docker, Jupyter, VS Code, IntelliJ, LaTeX
 
-Currently learning Apache Spark and Databricks.
+Currently learning **Apache Spark** and **Databricks**.
 
-Contact
+## Contact
 
-LinkedIn
-andrewalexander05626@gmail.com
+[LinkedIn](https://www.linkedin.com/in/andrew-arrivillaga-arana-2a898a340/)  
+[andrewalexander05626@gmail.com](mailto:andrewalexander05626@gmail.com)
