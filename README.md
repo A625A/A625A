@@ -18,7 +18,7 @@ I build applied data and software projects across **machine learning, data engin
 
 Bilingual banking-support system built for the Factored AI & Data Hackathon 2026. My work focused on **system evaluation, data quality, persistent model-to-backend workflows, controlled actions, human escalation, and observability**.
 
-`Python` `FastAPI` `PostgreSQL` `scikit-learn` `DuckDB` `AWS S3` `Docker` `Oracle Cloud`
+`Python` `FastAPI` `PostgreSQL` `scikit-learn` `DuckDB` `Docker`
 
 [Live demo](https://factored-ai.163-192-145-116.sslip.io/) · [Demo video](https://youtube.com/watch?v=WtR6R8uWQwY&feature=youtu.be)
 
@@ -119,16 +119,13 @@ Operational-risk MVP for transportation workflows when IoT temperature sensors a
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?logo=amazonwebservices&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ## APIs & Data Sources Used
 
-`Binance API` · `CoinGecko API` · `FRED` · `NewsAPI` · `AWS S3` · `REST APIs`
+`Binance API` · `CoinGecko API` · `FRED` · `NewsAPI` · `REST APIs`
 
 ## Additional Work
 
