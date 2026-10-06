@@ -100,15 +100,9 @@ Full-stack bakery ordering platform with a PostgreSQL-backed catalog and orders,
 
 React Native / Expo loyalty-app prototype for a fuel-station customer workflow: authentication, points, promotions, coupon redemption, profile settings, notifications, and Spanish/English UI.
 
-<p align="center">
-  <a href="https://github.com/A625A/GasStationApp">
-    <img src="https://raw.githubusercontent.com/A625A/GasStationApp/main/assets/screenshots/fuel-rewards-home.png" width="330" alt="Fuel Rewards running home screen">
-  </a>
-</p>
-
 `React Native` `Expo` `TypeScript` `FastAPI` `SQLAlchemy` `AsyncStorage`
 
-*Screenshot captured from the running application after authenticating against its local FastAPI backend with synthetic demo data. Prototype only; not an official Shell application.*
+*Screen-by-screen screenshots are available in the repository README. Prototype only; not an official Shell application.*
 
 ---
 
@@ -116,15 +110,9 @@ React Native / Expo loyalty-app prototype for a fuel-station customer workflow: 
 
 Operational-risk MVP for transportation workflows when IoT temperature sensors are unavailable. Employees record observable conditions, complete a checklist, and receive a transparent rule-based risk score and recommendation.
 
-<p align="center">
-  <a href="https://github.com/A625A/TemptCheck">
-    <img src="https://raw.githubusercontent.com/A625A/TemptCheck/main/assets/screenshots/tempcheck-dashboard.png" width="760" alt="TempCheck running operational dashboard">
-  </a>
-</p>
-
 `Python` `FastAPI` `Jinja2` `JavaScript` `Docker`
 
-*Screenshot captured from the running FastAPI application. The risk score is rule-based, not a validated predictive model.*
+*Workflow screenshots are available in the repository README. The risk score is rule-based, not a validated predictive model.*
 
 ## Additional Work
 
