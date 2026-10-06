@@ -59,7 +59,7 @@ React Native / Expo loyalty-app prototype for a fuel-station customer workflow: 
 
 `React Native` `Expo` `TypeScript` `FastAPI` `SQLAlchemy` `AsyncStorage`
 
-*Screenshot captured from the running application build. Prototype only; not an official Shell application.*
+*Screenshot captured from the running application after authenticating against its local FastAPI backend with synthetic demo data. Prototype only; not an official Shell application.*
 
 ---
 
