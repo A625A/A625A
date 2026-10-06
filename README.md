@@ -2,7 +2,7 @@
 
 # Andrew Arrivillaga
 
-**Data Science Engineering student focused on applied machine learning, data engineering, and reliable software systems.**
+**Data Science Engineering student at Universidad del Valle de Guatemala (UVG), focused on applied machine learning, data engineering, and reliable software systems.**
 
 I like building projects that connect data pipelines, APIs, databases, machine learning, and real user workflows — then testing the parts that can fail.
 
@@ -26,6 +26,8 @@ Bilingual banking-support system built for the Factored AI Hackathon 2026. My wo
 </a>
 
 `Python` `FastAPI` `PostgreSQL` `scikit-learn` `DuckDB` `AWS S3` `Docker` `Oracle Cloud`
+
+[Live demo](https://factored-ai.163-192-145-116.sslip.io/) · [Demo video](https://youtube.com/watch?v=WtR6R8uWQwY&feature=youtu.be)
 
 **Highlights:** deterministic human-agent ranking · 60-case ES/PT system evaluation · PostgreSQL workflow state · public HTTPS demo
 
@@ -82,7 +84,7 @@ Operational-risk MVP for transportation workflows when IoT temperature sensors a
 **Programming:** Python · SQL · R · Java · TypeScript · Prolog  
 **Data & ML:** Pandas · NumPy · scikit-learn · DuckDB · Parquet · Jupyter · Google Colab  
 **Databases:** PostgreSQL · Oracle  
-**Backend & Web:** FastAPI · Next.js · React · REST APIs · API integrations/hooks  
+**Backend & Web:** FastAPI · Next.js · React · REST APIs · API integration  
 **Infrastructure:** Docker · Docker Compose · AWS · Oracle Cloud · GitHub Actions  
 **Tools:** Git · GitHub · LaTeX · VS Code · IntelliJ
 
