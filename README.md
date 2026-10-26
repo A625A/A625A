@@ -1,6 +1,6 @@
 <div align="center">
 
-# Andrew Arrivillaga
+# Andrew Arrivillaga Arana
 
 **Data Science Engineering student at Universidad del Valle de Guatemala (UVG)**
 
