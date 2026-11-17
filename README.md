@@ -21,7 +21,6 @@ I build applied data and software projects across **machine learning, data engin
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-74283C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### Data & Machine Learning
