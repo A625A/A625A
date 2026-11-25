@@ -4,17 +4,15 @@
 
 **Data Science Engineering student at Universidad del Valle de Guatemala (UVG)**
 
-I build applied data and software projects across **machine learning, data engineering, backend systems, and product workflows**, with an emphasis on reproducibility, testing, and clear system boundaries.
-
-**Data Science · ML Engineering · Data Engineering · Analytics**
+I work on applied statistics, machine learning, data engineering, and backend development through academic, personal, and hackathon projects. I am particularly interested in building reliable data pipelines and integrating analytical models into software systems.
 
 [LinkedIn](https://www.linkedin.com/in/andrew-arrivillaga-arana-2a898a340/) · [Email](mailto:andrewalexander05626@gmail.com)
 
 </div>
 
-## Tech Stack
+## Technical Skills
 
-### Languages
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
@@ -23,97 +21,70 @@ I build applied data and software projects across **machine learning, data engin
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### Data & Machine Learning
+**Data & Analytics**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000)
-![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-Data%20Files-50ABF1)
+Pandas · NumPy · scikit-learn · DuckDB · Apache Parquet · MiniZinc
 
-### Backend & Databases
+Applied statistics · Monte Carlo simulation · Feature engineering · Data quality · Classification · Clustering · Time-series analysis
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-005571)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?logo=drizzle&logoColor=000)
+**Software & Databases**
 
-### Frontend & Apps
+FastAPI · REST APIs · PostgreSQL · SQLAlchemy · Next.js · Drizzle ORM
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?logo=jinja&logoColor=white)
+**Development & Testing**
 
-### Infrastructure, Testing & Quality
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-
-## APIs & Data Sources Used
-
-`Binance API` · `CoinGecko API` · `FRED` · `NewsAPI` · `REST APIs`
+Git/GitHub · Docker · Docker Compose · Pytest · Playwright · Vitest · Jupyter/Colab
 
 ## Featured Projects
 
 ### [Banking Support ML System](https://github.com/A625A/factored-ai-banking-agent)
 
-Bilingual banking-support system built for the Factored AI & Data Hackathon 2026. My work focused on **system evaluation, data quality, persistent model-to-backend workflows, controlled actions, human escalation, and observability**.
+Team project for the Factored AI & Data Hackathon 2026. The system integrates a bilingual intent classifier into FastAPI and was deployed as a public demo on Oracle Cloud using synthetic customer data.
 
-`Python` `FastAPI` `PostgreSQL` `scikit-learn` `DuckDB` `Docker`
+- Built a reproducible evaluator covering 60 Spanish/Portuguese scenarios.
+- Developed DuckDB/SQL data quality checks and PostgreSQL-backed workflows for controlled actions and human handoff.
+- Added backend operational metrics and contributed to model-to-backend integration.
 
-[Live demo](https://factored-ai.163-192-145-116.sslip.io/) · [Demo video](https://youtube.com/watch?v=WtR6R8uWQwY&feature=youtu.be)
+Classifier training, AWS S3 ingestion and public deployment were team contributions, not individual work.
 
-**Evidence:** 60 frozen ES/PT system-evaluation scenarios · PostgreSQL workflow state · controlled human handoff · public HTTPS demo
+`Python` `scikit-learn` `FastAPI` `PostgreSQL` `DuckDB` `Docker`
 
----
+[Demo video](https://youtube.com/watch?v=WtR6R8uWQwY&feature=youtu.be)
+
+### [Fuel Inventory Optimization with R and MiniZinc](https://github.com/A625A/fuel-inventory-optimization-r)
+
+Academic project using 731 historical UK petrol sales observations to study replenishment policies under uncertain demand.
+
+- Compared 36 candidate policies and validated finalists using 500 simulation trajectories.
+- Used R for Monte Carlo simulation, confidence intervals and sensitivity analysis, and MiniZinc for constrained policy selection.
+- Achieved a 55.91% reduction in simulated average inventory with a 99.55% volume-based service level. These are simulation results, not measured commercial savings.
+
+`R` `MiniZinc` `Monte Carlo` `Statistical validation`
 
 ### [Crypto Market Intelligence Pipeline](https://github.com/A625A/Crypto-Market-Intelligence-Pipeline)
 
-Leakage-aware multi-source pipeline for BTC, ETH, and SOL research. It combines market, macroeconomic, sentiment, and auditable news data while preserving **historical availability, source provenance, and predictive eligibility**.
+Multi-source data pipeline for BTC, ETH and SOL research, combining market, macroeconomic and sentiment data into daily modeling features.
 
-`Python` `Pandas` `NumPy` `Parquet` `FRED` `Binance` `CoinGecko` `NewsAPI` `FinBERT` `Pytest`
+- Implemented time-aware feature engineering, source validation, auditable news snapshots and FinBERT sentiment features.
+- Predictive model training, walk-forward evaluation and backtesting are planned stages, not completed results.
 
-**Implemented:** source pipelines · feature engineering · combined modeling dataset · immutable news snapshots · local FinBERT news features  
-**Next:** walk-forward modeling · backtesting · dashboard
+`Python` `Pandas` `NumPy` `Parquet` `FinBERT` `Pytest`
 
----
+### [Fuel Station Operations & Analytics Prototype](https://github.com/A625A/GasolineraGestion)
+
+Fuel inventory and consumption prototype with restocking alerts, monthly demand forecasting, peak-hour analysis and KMeans-based location recommendations. Uses demo data and is not connected to live station systems.
+
+`Python` `Pandas` `scikit-learn` `FastAPI` `PostgreSQL`
 
 ### [Güteli Bakery](https://github.com/A625A/guteli-bakery)
 
-Full-stack bakery ordering platform with a PostgreSQL-backed catalog and orders, protected admin workflows, product media handling, Docker, and automated browser/integration testing.
+Full-stack ordering application with a persistent product catalog, order workflows, protected admin routes, versioned database migrations and automated tests.
 
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Docker` `Playwright` `Vitest`
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Playwright`
 
-**Implemented:** storefront · cart/order flow · persistent catalog · protected admin · product media · WhatsApp handoff boundary
+## Additional Projects
 
----
+- [Fuel Rewards Mobile App](https://github.com/A625A/GasStationApp) — React Native / Expo loyalty-app prototype.
+- [TempCheck](https://github.com/A625A/TemptCheck) — transport-risk MVP using a rule-based score, not a trained predictive model.
 
-### [Fuel Rewards Mobile App](https://github.com/A625A/GasStationApp)
-
-React Native / Expo loyalty-app prototype for a fuel-station customer workflow: authentication, points, promotions, coupon redemption, profile settings, notifications, and Spanish/English UI.
-
-`React Native` `Expo` `TypeScript` `FastAPI` `SQLAlchemy` `AsyncStorage`
-
-*Screen-by-screen screenshots are available in the repository README. Prototype only; not an official Shell application.*
-
----
-
-### [TempCheck](https://github.com/A625A/TemptCheck)
-
-Operational-risk MVP for transportation workflows when IoT temperature sensors are unavailable. Employees record observable conditions, complete a checklist, and receive a transparent rule-based risk score and recommendation.
-
-`Python` `FastAPI` `Jinja2` `JavaScript` `Docker`
-
-*Workflow screenshots are available in the repository README. The risk score is rule-based, not a validated predictive model.*
-
-## Additional Work
-
-I also have university and exploratory repositories in Java, SQL, Prolog, databases, numerical methods, and earlier software exercises. They remain available on my profile, but the projects above best represent the work I want recruiters to evaluate first.
+Other repositories include university coursework in Java, SQL, databases and numerical methods.
