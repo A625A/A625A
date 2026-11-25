@@ -23,17 +23,42 @@ I work on applied statistics, machine learning, data engineering, and backend de
 
 **Data & Analytics**
 
-Pandas · NumPy · scikit-learn · DuckDB · Apache Parquet · MiniZinc
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1)
+![MiniZinc](https://img.shields.io/badge/MiniZinc-3855A3)
 
 Applied statistics · Monte Carlo simulation · Feature engineering · Data quality · Classification · Clustering · Time-series analysis
 
 **Software & Databases**
 
-FastAPI · REST APIs · PostgreSQL · SQLAlchemy · Next.js · Drizzle ORM
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-005571)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?logo=drizzle&logoColor=black)
 
 **Development & Testing**
 
-Git/GitHub · Docker · Docker Compose · Pytest · Playwright · Vitest · Jupyter/Colab
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black)
+
+**Frontend & Apps**
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?logo=jinja&logoColor=white)
 
 ## Featured Projects
 
@@ -51,6 +76,8 @@ Classifier training, AWS S3 ingestion and public deployment were team contributi
 
 [Demo video](https://youtube.com/watch?v=WtR6R8uWQwY&feature=youtu.be)
 
+---
+
 ### [Fuel Inventory Optimization with R and MiniZinc](https://github.com/A625A/fuel-inventory-optimization-r)
 
 Academic project using 731 historical UK petrol sales observations to study replenishment policies under uncertain demand.
@@ -61,6 +88,8 @@ Academic project using 731 historical UK petrol sales observations to study repl
 
 `R` `MiniZinc` `Monte Carlo` `Statistical validation`
 
+---
+
 ### [Crypto Market Intelligence Pipeline](https://github.com/A625A/Crypto-Market-Intelligence-Pipeline)
 
 Multi-source data pipeline for BTC, ETH and SOL research, combining market, macroeconomic and sentiment data into daily modeling features.
@@ -70,11 +99,15 @@ Multi-source data pipeline for BTC, ETH and SOL research, combining market, macr
 
 `Python` `Pandas` `NumPy` `Parquet` `FinBERT` `Pytest`
 
+---
+
 ### [Fuel Station Operations & Analytics Prototype](https://github.com/A625A/GasolineraGestion)
 
 Fuel inventory and consumption prototype with restocking alerts, monthly demand forecasting, peak-hour analysis and KMeans-based location recommendations. Uses demo data and is not connected to live station systems.
 
 `Python` `Pandas` `scikit-learn` `FastAPI` `PostgreSQL`
+
+---
 
 ### [Güteli Bakery](https://github.com/A625A/guteli-bakery)
 
