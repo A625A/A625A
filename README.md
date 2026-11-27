@@ -78,6 +78,22 @@ Classifier training, AWS S3 ingestion and public deployment were team contributi
 
 ---
 
+### [INE FARO — Statistical & Territorial Intelligence](https://github.com/A625A/INE-FARO)
+
+Team project developed for the INE Guatemala Datathon 2026. An interactive platform for exploring Guatemala's informal economy and identifying territorial contrasts using official data.
+
+- Integrates INE and Banco de Guatemala data across 22 departments.
+- Uses a deterministic rule-based radar with 44 findings and 21 sensitivity scenarios.
+- Includes survey-weighted estimates, approximate statistical precision measures, reproducible processing and a documented suite of 231 passing software tests.
+
+These are team-level results from the prototype, not individual contributions or an official INE deployment.
+
+`Python` `Pandas` `NumPy` `Streamlit` `Altair` `Pytest`
+
+[Live Demo](https://ine-faro.streamlit.app/) · [Demo video](https://youtu.be/GJHaQwxRxqs)
+
+---
+
 ### [Fuel Inventory Optimization with R and MiniZinc](https://github.com/A625A/fuel-inventory-optimization-r)
 
 Academic project using 731 historical UK petrol sales observations to study replenishment policies under uncertain demand.
@@ -99,24 +115,11 @@ Multi-source data pipeline for BTC, ETH and SOL research, combining market, macr
 
 `Python` `Pandas` `NumPy` `Parquet` `FinBERT` `Pytest`
 
----
-
-### [Fuel Station Operations & Analytics Prototype](https://github.com/A625A/GasolineraGestion)
-
-Fuel inventory and consumption prototype with restocking alerts, monthly demand forecasting, peak-hour analysis and KMeans-based location recommendations. Uses demo data and is not connected to live station systems.
-
-`Python` `Pandas` `scikit-learn` `FastAPI` `PostgreSQL`
-
----
-
-### [Güteli Bakery](https://github.com/A625A/guteli-bakery)
-
-Full-stack ordering application with a persistent product catalog, order workflows, protected admin routes, versioned database migrations and automated tests.
-
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Playwright`
 
 ## Additional Projects
 
+- [Fuel Station Operations & Analytics Prototype](https://github.com/A625A/GasolineraGestion) — fuel inventory, forecasting and location analytics prototype using demo data.
+- [Güteli Bakery](https://github.com/A625A/guteli-bakery) — full-stack ordering application with PostgreSQL, protected admin routes and automated tests.
 - [Fuel Rewards Mobile App](https://github.com/A625A/GasStationApp) — React Native / Expo loyalty-app prototype.
 - [TempCheck](https://github.com/A625A/TemptCheck) — transport-risk MVP using a rule-based score, not a trained predictive model.
 
